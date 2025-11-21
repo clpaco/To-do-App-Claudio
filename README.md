@@ -16,6 +16,11 @@ Una aplicación de gestión de tareas (todos) construida con React y Supabase.
 - Supabase
 - Vite
 
+## 📸 Captura de la Aplicacion
+
+<img width="1847" height="887" alt="image" src="https://github.com/user-attachments/assets/0c0d35c0-f21a-4889-8540-da73d890b219" />
+
+
 ## 📦 Instalación
 
 1. Clona el repositorio:
