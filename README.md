@@ -20,6 +20,9 @@ Una aplicación de gestión de tareas (todos) construida con React y Supabase.
 
 <img width="1847" height="887" alt="image" src="https://github.com/user-attachments/assets/0c0d35c0-f21a-4889-8540-da73d890b219" />
 
+## 📸 Captura de Supabase
+
+<img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/15b6a330-ef7c-4cdd-bf8d-ba2a04079b2b" />
 
 ## 📦 Instalación
 
